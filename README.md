@@ -1,3 +1,3 @@
 # Locomondo-Timer
-Countdown program
+##Countdown program
 ![Screenshot](LocoImage.png)
